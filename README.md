@@ -1,5 +1,7 @@
 ## tensorflow seq2seq chatbot
 
+Modified to run on OSX
+
 Build a general-purpose conversational chatbot based on a hot 
 seq2seq approach implemented in [tensorflow](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html#sequence-to-sequence_basics).
 Since it doesn't produce good results so far, also consider other implementations of [seq2seq](https://github.com/nicolas-ivanov/seq2seq_chatbot_links).

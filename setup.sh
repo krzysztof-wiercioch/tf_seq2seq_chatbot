@@ -14,6 +14,6 @@ cp $data_dir'/movie_lines_cleaned_10k.txt' $save_dir'/data/chat_test.in'
 
 # build and install the tweaked Seq2Seq_Upgrade_TensorFlow package
 cd $save_dir
-git clone git@github.com:nicolas-ivanov/Seq2Seq_Upgrade_TensorFlow.git
+git clone git@github.com:krzysztof-wiercioch/Seq2Seq_Upgrade_TensorFlow.git
 cd Seq2Seq_Upgrade_TensorFlow
 sudo python setup.py build & sudo python setup.py install
